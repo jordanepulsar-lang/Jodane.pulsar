@@ -18,7 +18,7 @@ Compétences clés :
 
 🧮 Mathématiques : algèbre linéaire, optimisation, calcul différentiel
 
-💻 Langages : Python (NumPy, Pandas, scikit-learn, Matplotlib), R, SQL
+💻 Langages : Python (NumPy, Pandas, scikit-learn, Matplotlib)
 
 📁 Projets en cours
 
