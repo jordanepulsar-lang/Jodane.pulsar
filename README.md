@@ -20,7 +20,11 @@ Compétences clés :
 
 💻 Langages : Python (NumPy, Pandas, scikit-learn, Matplotlib)
 
-📁 Projets en cours
+📁 Projets déjà achevés :
+1- Analyse et prédiction du "churn" pour une compagnie téléphonique 
+2- Analyse et prédiction des prix de smartphones
+3- Analyse et prédiction des fraix de Taxi aux USA 
+4- Clustering 
 
 
 
