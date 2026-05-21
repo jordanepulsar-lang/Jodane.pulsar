@@ -28,7 +28,7 @@ Compétences clés :
 
 3- Analyse et prédiction des fraix de Taxi aux USA 
 
-4- Clustering 
+4- Clustering de données(Classement des fleurs d'iris par classes)
 
 
 
